@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ornek_1", "Ornek_1\Ornek_1.csproj", "{D5A550BA-7E56-4B59-9F68-F443C988FC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek_2", "Ornek_2\Ornek_2.csproj", "{76FE7C66-1D7B-4006-BE06-0F9DFFD8210E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek_3", "Ornek_3\Ornek_3.csproj", "{BE64E02B-483F-46B9-9814-107BD5FC73EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A550BA-7E56-4B59-9F68-F443C988FC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A550BA-7E56-4B59-9F68-F443C988FC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A550BA-7E56-4B59-9F68-F443C988FC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A550BA-7E56-4B59-9F68-F443C988FC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FE7C66-1D7B-4006-BE06-0F9DFFD8210E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FE7C66-1D7B-4006-BE06-0F9DFFD8210E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FE7C66-1D7B-4006-BE06-0F9DFFD8210E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FE7C66-1D7B-4006-BE06-0F9DFFD8210E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE64E02B-483F-46B9-9814-107BD5FC73EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE64E02B-483F-46B9-9814-107BD5FC73EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE64E02B-483F-46B9-9814-107BD5FC73EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE64E02B-483F-46B9-9814-107BD5FC73EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6628FF7-7EAD-4843-8A6A-009013160437}
+	EndGlobalSection
+EndGlobal
