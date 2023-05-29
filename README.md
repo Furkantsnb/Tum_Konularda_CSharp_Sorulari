@@ -13,4 +13,6 @@ C#, öğrenmesi ve kullanması kolay, modern, nesne yönelimli, genel amaçlı b
 Örnek 6 : C# Program to Check if a Number is Divisible by 2  
 Örnek 7 : C# Program to Find the Sum of All the Multiples of 3 and 5  
 Örnek 8 : C# Program to Print All the Multiples of 17 which are Less than 100  
-Örnek 9 : C# Program to Find Sum of Digits of a Number
+Örnek 9 : C# Program to Find Sum of Digits of a Number  
+Örnek 10 : C# Program to Find Sum of Digits of a Number using Recursion   
+Örnke 11 : C# Program to Reverse a Number
