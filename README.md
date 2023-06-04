@@ -15,4 +15,6 @@ C#, öğrenmesi ve kullanması kolay, modern, nesne yönelimli, genel amaçlı b
 Örnek 8 : C# Program to Print All the Multiples of 17 which are Less than 100  
 Örnek 9 : C# Program to Find Sum of Digits of a Number  
 Örnek 10 : C# Program to Find Sum of Digits of a Number using Recursion   
-Örnke 11 : C# Program to Reverse a Number
+Örnke 11 : C# Program to Reverse a Number 
+
+Örnek 12 : C# Program to Reverse a Number and Check if it is a Palindrome
