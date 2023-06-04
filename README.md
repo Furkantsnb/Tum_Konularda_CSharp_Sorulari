@@ -19,4 +19,5 @@ C#, öğrenmesi ve kullanması kolay, modern, nesne yönelimli, genel amaçlı b
 Örnek 12 : C# Program to Reverse a Number and Check if it is a Palindrome  
 Örnek 13 : C# Program to Find the Sum of Two Binary Numbers  
 Örnek 14 : C# Program to Multiply Two Binary Numbers  
-Örnek 15 : C# Program to Calculate the Sum, Multiplication, Division and Subtraction of Two Numbers
+Örnek 15 : C# Program to Calculate the Sum, Multiplication, Division and Subtraction of Two Numbers  
+Örnek 16 : C# Program to Perform Multiplication of Exponents of Same Base
