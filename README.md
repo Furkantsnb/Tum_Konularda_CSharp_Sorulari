@@ -22,4 +22,5 @@ C#, öğrenmesi ve kullanması kolay, modern, nesne yönelimli, genel amaçlı b
 Örnek 15 : C# Program to Calculate the Sum, Multiplication, Division and Subtraction of Two Numbers  
 Örnek 16 : C# Program to Perform Multiplication of Exponents of Same Base  
 Örnek 17 : C# Program to Find the Division of Exponents of Same Base   
-Örnek 18 : C# Program to Print Binary Equivalent of an Integer using Recursion
+Örnek 18 : C# Program to Print Binary Equivalent of an Integer using Recursion  
+Örnek 19 : C# Program to Print Multiplication Table  
