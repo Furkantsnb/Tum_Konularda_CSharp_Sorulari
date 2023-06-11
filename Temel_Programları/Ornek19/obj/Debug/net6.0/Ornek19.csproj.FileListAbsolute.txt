@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\bin\Debug\net6.0\Ornek19.exe
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\bin\Debug\net6.0\Ornek19.deps.json
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\bin\Debug\net6.0\Ornek19.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\bin\Debug\net6.0\Ornek19.dll
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\bin\Debug\net6.0\Ornek19.pdb
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.dll
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\refint\Ornek19.dll
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.pdb
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\Ornek19.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\Temel_Programları\Ornek19\obj\Debug\net6.0\ref\Ornek19.dll
