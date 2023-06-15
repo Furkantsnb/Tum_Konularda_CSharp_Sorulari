@@ -37,3 +37,13 @@ C#, öğrenmesi ve kullanması kolay, modern, nesne yönelimli, genel amaçlı b
 Örnek 3 : C# Program to Perform All Arithmetic Operations  
 Örnek 4 : C# Program to Demonstrate the use of Conditional Logical Operator   
 Örnek 5 : C# Program to Demonstrate Boxing Operations
+
+
+                                                      C# Programs on Numbers  
+                                                                                              
+Örnek 1 : C# Program to Generate Fibonacci Series   
+Örnek 2 : C# Program to Print the Factorial of a Given Number   
+Örnek 3 : C# Program to Print All the Prime Numbers between 1 to 100   
+Örnek 4 : C# Program to Find the Largest Prime Factor of a Number   
+Örnek 5 : C# Program to Check Whether a Given Number is Perfect Number   
+Örnek 6 : C# Program to Check Armstrong Number
