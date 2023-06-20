@@ -46,4 +46,10 @@ C#, öğrenmesi ve kullanması kolay, modern, nesne yönelimli, genel amaçlı b
 Örnek 3 : C# Program to Print All the Prime Numbers between 1 to 100   
 Örnek 4 : C# Program to Find the Largest Prime Factor of a Number   
 Örnek 5 : C# Program to Check Whether a Given Number is Perfect Number   
-Örnek 6 : C# Program to Check Armstrong Number
+Örnek 6 : C# Program to Check Armstrong Number  
+Örnek 7 : C# Program to Print Armstrong Number between 1 to 1000  
+Örnek 8 : C# Program to Generate the Sum of N Numbers  
+Örnek 9 : C# Program to Find the Sum of First 50 Natural Numbers using For Loop  
+Örnek 10 : C# Program to Find the Factors of the Given Number  
+Örnek 11 : C# Program to Print the Absolute Value of a Number  
+Örnek 12 : C# Program to Generate Random Numbers
